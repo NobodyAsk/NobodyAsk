@@ -1,4 +1,5 @@
-### Hi there 👋
+Привет! Меня зовут Илья, я разработчик С++ и Python.
+
 
 <!--
 **NobodyAsk/NobodyAsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
